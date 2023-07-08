@@ -19,7 +19,7 @@
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <a href="https://github.com/vhmf1994">
-    <img height=100% width=36% align="center" src="https://github-readme-stats.vercel.app/api?username=vhmf1994&show_icons=true&hide_border=true&border_radius=0&theme=onedark" style="margin-right: 5px;"/>
+    <img height=100% width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=vhmf1994&show_icons=true&hide_border=true&border_radius=0&theme=onedark" style="margin-right: 5px;"/>
     <img height=100% width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmf1994&layout=donut&hide_border=true&border_radius=0&theme=onedark" style="margin-left: 5px;" />
 </div>
 
