@@ -18,8 +18,9 @@
 </p>
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=vhmf1994&show_icons=true&theme=onedark" style="margin-right: 5px;"/>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmf1994&layout=donut&theme=onedark" style="margin-left: 5px;" />
+    <a href="https://github.com/vhmf1994">
+    <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=vhmf1994&show_icons=true&theme=onedark" style="margin-right: 5px;"/>
+    <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmf1994&layout=donut&theme=onedark" style="margin-left: 5px;" />
 </div>
 
 <div align = "center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
