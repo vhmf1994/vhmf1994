@@ -22,18 +22,34 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmf1994&layout=donut&theme=onedark" style="margin-left: 5px;" />
 </div>
 
-<div align = "center">
+<div align = "center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <h2>📕 Tecnologias que uso no meu dia a dia: 📕</h2>
-    <img align="center" alt="Unity Engine" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+        🎮
+        <img align="center" alt="Unity Engine" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+        <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        🎮
+    </div>
     <br>
     <h2>📖 Tecnologias que venho estudando: 📖</h2>
-    <img align="center" alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+        🎮
+        <img align="center" alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+        <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        🎮
+    </div>
     <br/><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+        🖥️
+        <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        🖥️
+    </div>
     <br/><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+        🤖
+        <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        🤖
+    </div>
 </div>
